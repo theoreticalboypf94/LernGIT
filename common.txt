@@ -1,6 +1,6 @@
-common text_CONFlICT2
+common text_CONFLICT1 + 2 удалили конфликт
 
-common text
+common text_conflict1
 
 common text_conflict2
 

@@ -1,6 +1,6 @@
-common text
+common text_CONFLICT1
 
-common text
+common text_conflict1
 
 common text
 
